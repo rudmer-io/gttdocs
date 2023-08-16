@@ -8,9 +8,9 @@ Bienvenido a la documentación del Sistema de Control de Tiempo de COMSIGUA.
 
 Este sistema se encuentra desarrollado en Javascript utilizando VueJS para el Frontend y Laravel para el Backend.
 
-~~~
+`
 Este sistema se encuentra desarrollado en Javascript utilizando [VueJS v3](https://vuejs.org/guide/introduction.html) para el Frontend y [Laravel v8.12](https://laravel.com/docs/5.8)  para el Backend. Es requerido tener instalado [NodeJs v14.16.1](https://nodejs.org/ja/blog/release/v14.16.1), tambien debe instalar [PHP v7.4](https://www.php.net/releases/7_4_0.php), además de contar con composer.
-~~~
+`
 
 Portainer hides the complexity of managing containers behind an easy-to-use UI. By removing the need to use the CLI, write YAML or understand manifests, Portainer makes deploying apps and troubleshooting problems so easy that anyone can do it.
 
